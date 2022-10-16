@@ -1,0 +1,6 @@
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\bin\Debug\CANoe_function_dll.dll
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\bin\Debug\CANoe_function_dll.pdb
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\obj\Debug\CANoe_function_dll.csproj.AssemblyReference.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\obj\Debug\CANoe_function_dll.csproj.CoreCompileInputs.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\obj\Debug\CANoe_function_dll.dll
+C:\Users\kadan\source\repos\kadan7of9\CANoe\CANoe_function_dll\CANoe_function_dll\obj\Debug\CANoe_function_dll.pdb

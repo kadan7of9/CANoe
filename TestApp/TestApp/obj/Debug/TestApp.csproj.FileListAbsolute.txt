@@ -1,0 +1,11 @@
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\kadan\source\repos\kadan7of9\CANoe\TestApp\TestApp\obj\Debug\TestApp.pdb
